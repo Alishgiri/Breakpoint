@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>735464475688-n3p3oftud1bpmqhdpiv3a7t0pevolk6h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.735464475688-n3p3oftud1bpmqhdpiv3a7t0pevolk6h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOivRvUAAt67JjW_Rh4eaqxhuZninVTVk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>735464475688</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alish.giri.breakpoint</string>
+	<key>PROJECT_ID</key>
+	<string>breakpoint-70d28</string>
+	<key>STORAGE_BUCKET</key>
+	<string>breakpoint-70d28.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:735464475688:ios:03b26721aa860f24</string>
+	<key>DATABASE_URL</key>
+	<string>https://breakpoint-70d28.firebaseio.com</string>
+</dict>
+</plist>
